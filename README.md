@@ -1,10 +1,9 @@
-Programacion_virus_ASM
-======================
+<h1>Introducción a la programacion de virus en Assembler</h1>
 
-Curso de Programacion de virus en ASM - by zeroPad
+<h3>Curso de Programacion de virus en ASM - by zeroPad</h3>
 
-Licencia
---------
+<h4>Licencia<h4>
+
 
 
 Esta obra está bajo una licencia Atribución-NoComercial 2.5 Argentina (CC BY-NC 2.5 AR) de Creative Commons. 
@@ -15,15 +14,15 @@ Resumen de la licencia:
 
 Usted es libre para:
 
-   <b>Compartir</b> — copiar y redistribuir el material en cualquier medio o formato
+    <strong>Compartir</strong> — copiar y redistribuir el material en cualquier medio o formato
 
-   <b>Adaptar</b> — remezclar, transformar y crear a partir del material
+    <strong>Adaptar</strong> — remezclar, transformar y crear a partir del material
 
 Bajo los siguientes términos:
 
-   Reconocimiento - Se deben reconocer los créditos de la obra de la manera especicada por el autor o el licenciador.
+    <strong>Reconocimiento</strong> - Se deben reconocer los créditos de la obra de la manera especicada por el autor o el licenciador.
 
-   No comercial - No se puede utilizar esta obra para fines comerciales.
+    <strong>No comercial</strong> - No se puede utilizar esta obra para fines comerciales.
 
-   Compartir bajo la misma licencia - Si se altera o se transforma esta obra, o se genera una obra derivada, sólo se puede         distribuir la obra generada bajo una licencia idéntica a ésta.
+    <strong>Compartir bajo la misma licencia</strong> - Si se altera o se transforma esta obra, o se genera una obra derivada, sólo se puede distribuir la obra generada bajo una licencia idéntica a ésta.
 
