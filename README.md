@@ -15,9 +15,9 @@ Resumen de la licencia:
 
 Usted es libre para:
 
-   Compartir — copiar y redistribuir el material en cualquier medio o formato
+   <b>Compartir</b> — copiar y redistribuir el material en cualquier medio o formato
 
-   Adaptar — remezclar, transformar y crear a partir del material
+   <b>Adaptar</b> — remezclar, transformar y crear a partir del material
 
 Bajo los siguientes términos:
 
